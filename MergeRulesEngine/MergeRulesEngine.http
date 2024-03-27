@@ -1,0 +1,6 @@
+@MergeRulesEngine_HostAddress = http://localhost:5000
+
+GET {{MergeRulesEngine_HostAddress}}/mergerules/
+Accept: application/json
+
+###
